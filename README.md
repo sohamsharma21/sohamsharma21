@@ -7,9 +7,9 @@ I'm a passionate software developer with a keen interest in open-source projects
 - 🌱 I’m currently learning [AI]
 - 👯 I’m looking to collaborate on [open source projects, startups, etc.]
 - 🤔 I’m looking for help with [Blockchain, AI, IOT, etc.]
-- 💬 Ask me about [your areas of expertise]
-- 📫 How to reach me: [your email or social media]
-- ⚡ Fun fact: [a fun fact about you]
+- 💬 Ask me about [web developement,AI]
+- 📫 How to reach me: [sohamsharmapcm@gmail.com]
+- ⚡ Fun fact: [I am single,but I have a girlfriend ,how ?]
 
 ## Tech Stack
 - **Languages:** [Html, CSS, JavaScript, Python, etc.]
