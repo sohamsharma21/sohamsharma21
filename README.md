@@ -21,7 +21,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohamsharma21&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamsharma21&layout=compact&theme=radical)
+https://github-readme-stats.vercel.app/api/top-langs/?username=sohamsharma21&layout=compact&theme=radical
 
 ## Connect with Me
 [Instagram]https://www.instagram.com/soham_sharma_21/
