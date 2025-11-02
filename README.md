@@ -1,51 +1,76 @@
-<!-- Animated Dark Theme GitHub Profile README for Soham Sharma -->
+<!-- 🌌 Premium Animated GitHub Profile README for Soham Sharma -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Soham+Sharma+%F0%9F%91%8B;aka+Boss+%F0%9F%92%AA;Full+Stack+%26+Web3+Developer+%F0%9F%94%A5;AI-Powered+Startup+Builder+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hey+I'm+Soham+Sharma+%F0%9F%91%8B;aka+Boss+%F0%9F%92%AA;Full+Stack+%26+Web3+Developer+%F0%9F%94%A5;AI-Powered+Startup+Builder+%F0%9F%9A%80;Let's+Build+Something+Extraordinary!+%F0%9F%92%AF" alt="Typing Animation" />
 </h1>
 
 <p align="center">
-  🎓 BCA Student @ Bareilly College | 💻 Full-Stack & Web3 Developer | 🤖 AI Innovator | 🚀 Startup Builder  
+  🎓 BCA Student @ Bareilly College | 💻 Web2 + Web3 Developer | 🤖 AI Innovator | 🚀 Startup Builder  
 </p>
 
 ---
 
-### 🧠 About Me  
-
-I'm **Soham Sharma**, known as **Boss**, a passionate developer who loves turning ideas into impactful digital products.  
-From **Web2** to **Web3**, from **AI assistants** to **hyperlocal delivery apps**, I build solutions that empower people.  
-
-💡 *“Code what matters. Build what lasts.”*
-
----
-
-### 🚀 Projects  
-
-#### 🧩 [NovaAddin](https://github.com/sohamsharma21/NovaAddin)  
-A next-gen platform merging professional networking, AI mentorship, and Web3 integration.  
-> 🤖 Dctr Nova (AI Career Assistant) | 📄 Resume Builder | 🧑‍🏫 Paid Mentorship | 💰 Crypto Wallet  
-
-#### 🛒 [Sharply](https://github.com/sohamsharma21/Sharply)  
-A **hyperlocal e-commerce** startup for Bharat 🇮🇳 — connecting users to nearby stores for **60-minute delivery**.  
-> 🎮 Gamified Rewards (Nova Coins) | 🌱 EV Delivery | 🧾 Seller Subscription Model  
-
-#### 💧 [JalSaathi](https://github.com/sohamsharma21/JalSaathi)  
-An **AI-powered bilingual rainwater harvesting app**, promoting sustainable water practices in communities.  
-
-#### 🔮 [AstroAshi](https://github.com/sohamsharma21/AstroAshi)  
-A modern astrology PWA providing **AI-driven predictions**, **Kundli analysis**, and **daily insights**.
-
----
-
-### 🛠️ Tech Stack  
+<h2 align="center">🌈 About Me</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,solidity,html,css,tailwind,firebase,supabase,python,git,figma,vercel&perline=8" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=sohamsharma21&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Widget" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=9370DB&center=true&vCenter=true&width=700&lines=💻+Web2+and+Web3+Developer;🚀+Startup+Founder+and+Innovator;🧠+AI+Enthusiast+and+Problem+Solver;🎯+Building+Solutions+That+Impact+Lives" alt="Dynamic Roles Animation" />
 </p>
 
 ---
 
-### ⚡ GitHub Stats  
+### 🚀 Featured Projects
+
+#### 🧩 [NovaAddin](https://github.com/sohamsharma21/NovaAddin)
+A next-gen **professional + community platform** for students, recruiters & institutions.  
+> 🤖 Dctr Nova (AI Career Assistant) | 📄 Resume Builder | 🧑‍🏫 Mentorship System | 💰 Web3 Wallet Integration  
+
+#### 🛒 [Sharply](https://github.com/sohamsharma21/Sharply)
+A **hyperlocal e-commerce** platform for Bharat 🇮🇳 — delivering from nearby shops in **60 minutes**.  
+> 🎮 Gamified Rewards (Nova Coins) | 🌱 EV-based Sustainable Delivery | 💼 Seller Subscription  
+
+#### 💧 [JalSaathi](https://github.com/sohamsharma21/JalSaathi)
+A bilingual **Rainwater Harvesting Assistant App** empowering communities to manage water smartly.  
+> ☁️ Offline Support | 🌦️ Weather Forecast | 🏆 Sustainovation 2025 Project  
+
+#### 🔮 [AstroAshi](https://github.com/sohamsharma21/AstroAshi)
+A modern astrology PWA that offers **AI-driven insights**, **Kundli generation**, and **daily guidance**.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,solidity,html,css,tailwind,firebase,supabase,python,git,figma,vercel,astro,typescript&perline=8" />
+</p>
+
+---
+
+### 🏆 Achievements & Highlights
+
+| 🥇 | Achievement |
+|----|--------------|
+| 🎯 | **Smart India Hackathon 2024** — Final Round Participant |
+| 🌍 | **Sustainovation 2025** — Developed *JalSaathi*, a clean water initiative app |
+| 💡 | **NovaAddin** — Created a futuristic professional & mentorship platform |
+| 🚀 | **Sharply** — Built a hyperlocal 60-min delivery startup for Bharat |
+| 🌦️ | **JalSaathi** — Empowering rural water management with AI |
+| 🧠 | **AstroAshi** — AI-powered bilingual astrology PWA |
+| 🏅 | **Bhartiya Antariksha Hackathon 2025** — Worked on Air Quality Forecast Algorithm |
+| 💬 | **GDG Noida (DevFest 2025)** — Speaker Candidate |
+| 💻 | **GDSC Bareilly College** — Active participant & tech contributor |
+| 🧩 | **Iblis21** — Educational resource website for BCA students |
+| ⚙️ | **AI Workplace Well-being System** — Emotion recognition + blockchain privacy |
+| 💥 | **WidgetKit Clone** — Customization platform for mobile UIs |
+| 🔧 | **Hyperledger DApp Developer** — Experienced with private blockchain frameworks |
+| 🏗️ | **System Analysis & Design (SAD)** Student — Skilled in process modeling |
+
+---
+
+### ⚡ GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sohamsharma21&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -58,20 +83,11 @@ A modern astrology PWA providing **AI-driven predictions**, **Kundli analysis**,
 
 ---
 
-### 🏆 Achievements  
-
-- 🥇 **Smart India Hackathon 2024** Participant  
-- 🧠 Built AI & Web3 products like **NovaAddin**, **Sharply**, and **AstroAshi**  
-- 💬 Speaker Candidate — **DevFest / GDG Noida 2025**  
-- 🌍 Advocate for **AI x Sustainability & Local Commerce**
-
----
-
-### 🌱 Currently Exploring  
-
-- 🤖 AI x Web3 integrations  
-- ⚙️ System Architecture for scalable apps  
-- 💼 Startup pitching & product design  
+### 🧩 Currently Exploring
+- 🤖 AI x Web3 Integrations  
+- 🌐 Scalable Cloud + Firebase Architectures  
+- 🧱 Startup Product Design & Growth  
+- 🎓 Teaching & mentoring students in tech  
 
 ---
 
@@ -86,17 +102,11 @@ A modern astrology PWA providing **AI-driven predictions**, **Kundli analysis**,
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:483D8B&height=120&section=footer&animation=twinkling" />
 </p>
 
-<h3 align="center">✨ Building solutions that make a difference — one project at a time. ✨</h3>
+<h3 align="center">✨ “Building the future, one project at a time.” ✨</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sohamsharma21&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:483D8B&height=100&section=footer" />
 </p>
