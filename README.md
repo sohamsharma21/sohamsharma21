@@ -1,11 +1,11 @@
-<!-- 🌌 Premium Animated GitHub Profile README for Soham Sharma -->
+<!-- 🌌 Ultimate Cyber-AI Developer Profile for Soham Sharma -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hey+I'm+Soham+Sharma+%F0%9F%91%8B;aka+Boss+%F0%9F%92%AA;Full+Stack+%26+Web3+Developer+%F0%9F%94%A5;AI-Powered+Startup+Builder+%F0%9F%9A%80;Let's+Build+Something+Extraordinary!+%F0%9F%92%AF" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Hey+I'm+Soham+Sharma+%F0%9F%91%8B;aka+Boss+%F0%9F%92%AA;Full+Stack+%26+Web3+Developer+%F0%9F%94%A5;AI-Powered+Startup+Builder+%F0%9F%9A%80;Let's+Build+the+Future+Together!+%F0%9F%92%AF" alt="Typing Animation" />
 </h1>
 
 <p align="center">
-  🎓 BCA Student @ Bareilly College | 💻 Web2 + Web3 Developer | 🤖 AI Innovator | 🚀 Startup Builder  
+  🎓 BCA Student @ Bareilly College | 💻 Web2 + Web3 Developer | 🤖 AI Innovator | 🚀 Startup Builder | 💡 Member of GDG | 🏆 Participant in 15+ Hackathons  
 </p>
 
 ---
@@ -16,8 +16,9 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=sohamsharma21&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Widget" />
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=9370DB&center=true&vCenter=true&width=700&lines=💻+Web2+and+Web3+Developer;🚀+Startup+Founder+and+Innovator;🧠+AI+Enthusiast+and+Problem+Solver;🎯+Building+Solutions+That+Impact+Lives" alt="Dynamic Roles Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web3+%26+Blockchain+Innovator;Founder+of+DevXskill;AI+Enthusiast+%7C+Startup+Builder" />
 </p>
 
 ---
@@ -25,27 +26,31 @@
 ### 🚀 Featured Projects
 
 #### 🧩 [NovaAddin](https://github.com/sohamsharma21/NovaAddin)
-A next-gen **professional + community platform** for students, recruiters & institutions.  
-> 🤖 Dctr Nova (AI Career Assistant) | 📄 Resume Builder | 🧑‍🏫 Mentorship System | 💰 Web3 Wallet Integration  
+> A **futuristic professional + mentorship platform** for students, universities & recruiters.  
+> 🤖 Dctr Nova (AI Career Assistant) | 📄 Resume Builder | 🧑‍🏫 Paid Mentorship | 💰 Web3 Wallet | 🌐 Built with Next.js + Firebase  
 
 #### 🛒 [Sharply](https://github.com/sohamsharma21/Sharply)
-A **hyperlocal e-commerce** platform for Bharat 🇮🇳 — delivering from nearby shops in **60 minutes**.  
-> 🎮 Gamified Rewards (Nova Coins) | 🌱 EV-based Sustainable Delivery | 💼 Seller Subscription  
+> A **hyperlocal 60-minute delivery startup** for Bharat 🇮🇳.  
+> 🎮 Gamified Rewards (Nova Coins) | 🌱 EV-based Delivery | 🧾 Seller Subscriptions | 🚀 Built for Tier-2/3 Cities  
 
 #### 💧 [JalSaathi](https://github.com/sohamsharma21/JalSaathi)
-A bilingual **Rainwater Harvesting Assistant App** empowering communities to manage water smartly.  
-> ☁️ Offline Support | 🌦️ Weather Forecast | 🏆 Sustainovation 2025 Project  
+> Bilingual **Rainwater Harvesting Assistant App** for rural sustainability.  
+> ☁️ Offline Support | 🌦️ Forecasts | 🏆 Finalist – Sustainovation 2025 | 📲 Supabase + AI Integration  
 
 #### 🔮 [AstroAshi](https://github.com/sohamsharma21/AstroAshi)
-A modern astrology PWA that offers **AI-driven insights**, **Kundli generation**, and **daily guidance**.
+> An **AI-powered astrology PWA** offering bilingual horoscopes, compatibility analysis, and daily insights.  
 
----
+#### 🔗 [Cryptipic](https://github.com/sohamsharma21/Cryptipic)
+> Web3-based **NFT authenticity verification** & blockchain image security system.  
 
-### 🛠️ Tech Stack
+#### 💼 [AI Workplace Well-being System](#)
+> Emotion Recognition + Blockchain Privacy for mental health in workplaces — detects stress via AI + biometric data.  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,solidity,html,css,tailwind,firebase,supabase,python,git,figma,vercel,astro,typescript&perline=8" />
-</p>
+#### 🧠 [Iblis21](#)
+> Study hub for **BCA students** – all semester notes, cheat sheets & tech blogs in one place.  
+
+#### 🎨 [WidgetKit Clone](#)
+> Customization platform for widgets, icons, and wallpapers.  
 
 ---
 
@@ -53,20 +58,46 @@ A modern astrology PWA that offers **AI-driven insights**, **Kundli generation**
 
 | 🥇 | Achievement |
 |----|--------------|
-| 🎯 | **Smart India Hackathon 2024** — Final Round Participant |
-| 🌍 | **Sustainovation 2025** — Developed *JalSaathi*, a clean water initiative app |
-| 💡 | **NovaAddin** — Created a futuristic professional & mentorship platform |
-| 🚀 | **Sharply** — Built a hyperlocal 60-min delivery startup for Bharat |
-| 🌦️ | **JalSaathi** — Empowering rural water management with AI |
-| 🧠 | **AstroAshi** — AI-powered bilingual astrology PWA |
-| 🏅 | **Bhartiya Antariksha Hackathon 2025** — Worked on Air Quality Forecast Algorithm |
-| 💬 | **GDG Noida (DevFest 2025)** — Speaker Candidate |
-| 💻 | **GDSC Bareilly College** — Active participant & tech contributor |
-| 🧩 | **Iblis21** — Educational resource website for BCA students |
-| ⚙️ | **AI Workplace Well-being System** — Emotion recognition + blockchain privacy |
-| 💥 | **WidgetKit Clone** — Customization platform for mobile UIs |
-| 🔧 | **Hyperledger DApp Developer** — Experienced with private blockchain frameworks |
-| 🏗️ | **System Analysis & Design (SAD)** Student — Skilled in process modeling |
+| 🧠 **Smart India Hackathon 2024 & 2025** – Team *NovaMinds* (National Level Participant) |
+| 💧 **Sustainovation 2025 Finalist** – Project *JalSaathi* |
+| 🚀 **Bhartiya Antariksha Hackathon 2025** – Air Quality Visualizer Algorithm |
+| 🎤 **DevFest Lucknow 2025** – Shortlisted Speaker |
+| 💬 **GDG Jamia “Hack of Thrones” 2025** – Round 2 Innovator |
+| 🪐 **XR Creator Con (Meta & ShapesXR)** – Selected Creator |
+| 👨‍💻 **Organizer** – Hackathons & Tech Events @ Bareilly College |
+| 💼 **Founder – DevXskill** (Student-led Tech Community) |
+| 🌍 **Member – GDG & GDSC Bareilly College** |
+| 💡 **15+ Hackathons** – Across AI, Web3, and Sustainability |
+| 🔧 **Hyperledger & Solidity Developer** |
+| 🧠 **System Analysis & Design Student (SAD)** |
+| 🤖 **AI Workplace Assistant** – Featured Innovation |
+
+---
+
+### 🧠 Skills & Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,typescript,solidity,html,css,tailwind,firebase,supabase,python,tensorflow,git,figma,vercel,astro,postman&perline=8" />
+</p>
+
+---
+
+### 💡 Core Expertise
+- ⚙️ Full-Stack Development (Next.js + Node.js)  
+- 🪙 Blockchain | Smart Contracts | Web3.js | Hyperledger  
+- 🤖 AI Integration | GPT | Gemini | TensorFlow  
+- 🌐 Cloud + Firebase Architectures  
+- 🎨 Product Design | UI/UX | System Analysis  
+- 🚀 Startup Leadership | Mentorship | Hackathon Strategy  
+
+---
+
+### 🧩 Community & Speaking
+- 🎤 **DevFest Lucknow 2025** – Shortlisted Speaker  
+- 🧩 **Hack of Thrones (GDG Jamia)** – Round 2  
+- 🧠 **Founder – DevXskill** – Growing tech community in college  
+- 🌍 **Active Member – GDG & GDSC**  
+- 💬 **Organizer & Mentor** – Tech events & hackathons  
 
 ---
 
@@ -83,20 +114,20 @@ A modern astrology PWA that offers **AI-driven insights**, **Kundli generation**
 
 ---
 
-### 🧩 Currently Exploring
-- 🤖 AI x Web3 Integrations  
-- 🌐 Scalable Cloud + Firebase Architectures  
-- 🧱 Startup Product Design & Growth  
-- 🎓 Teaching & mentoring students in tech  
+### 🧭 Currently Exploring
+- 🤖 AI x Web3 Synergy  
+- ☁️ Cloud Deployment Pipelines (Vercel + Firebase)  
+- 🧩 DApps for Real-World Problem Solving  
+- 🧱 Startup Building & Scaling  
 
 ---
 
 ### 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sohamsharma21/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/sohamsharma21"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:sohamsharmapcm@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/sohamsharma21/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sohamsharma21"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:sohamsharmapcm@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -105,8 +136,8 @@ A modern astrology PWA that offers **AI-driven insights**, **Kundli generation**
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:483D8B&height=120&section=footer&animation=twinkling" />
 </p>
 
-<h3 align="center">✨ “Building the future, one project at a time.” ✨</h3>
+<h3 align="center">✨ “Building the Future, One Line of Code at a Time.” ✨</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sohamsharma21&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sohamsharma21&label=Profile%20Views&color=00FFFF&style=flat-square" alt="profile views" />
 </p>
