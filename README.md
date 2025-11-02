@@ -6,6 +6,7 @@
 
 <p align="center">
   🎓 BCA Student @ Bareilly College | 💻 Web2 + Web3 Developer | 🤖 AI Innovator | 🚀 Startup Builder | 💡 Member of GDG | 🏆 Participant in 15+ Hackathons  
+  
 </p>
 
 ---
@@ -27,18 +28,22 @@
 
 #### 🧩 [NovaAddin](https://github.com/sohamsharma21/NovaAddin)
 > A **futuristic professional + mentorship platform** for students, universities & recruiters.  
-> 🤖 Dctr Nova (AI Career Assistant) | 📄 Resume Builder | 🧑‍🏫 Paid Mentorship | 💰 Web3 Wallet | 🌐 Built with Next.js + Firebase  
+> 🤖 Dctr Nova (AI Career Assistant) | 📄 Resume Builder | 🧑‍🏫 Paid Mentorship | 💰 Web3 Wallet | 🌐 Built with Next.js + Firebase
+> Our Startup    
 
 #### 🛒 [Sharply](https://github.com/sohamsharma21/Sharply)
 > A **hyperlocal 60-minute delivery startup** for Bharat 🇮🇳.  
-> 🎮 Gamified Rewards (Nova Coins) | 🌱 EV-based Delivery | 🧾 Seller Subscriptions | 🚀 Built for Tier-2/3 Cities  
+> 🎮 Gamified Rewards (Nova Coins) | 🌱 EV-based Delivery | 🧾 Seller Subscriptions | 🚀 Built for Tier-2/3 Cities
+> Our Startup
 
 #### 💧 [JalSaathi](https://github.com/sohamsharma21/JalSaathi)
 > Bilingual **Rainwater Harvesting Assistant App** for rural sustainability.  
-> ☁️ Offline Support | 🌦️ Forecasts | 🏆 Finalist – Sustainovation 2025 | 📲 Supabase + AI Integration  
+> ☁️ Offline Support | 🌦️ Forecasts | 🏆 Finalist – Sustainovation 2025 | 📲 Supabase + AI Integration
+> Our SaaS 
 
 #### 🔮 [AstroAshi](https://github.com/sohamsharma21/AstroAshi)
-> An **AI-powered astrology PWA** offering bilingual horoscopes, compatibility analysis, and daily insights.  
+> An **AI-powered astrology PWA** offering bilingual horoscopes, compatibility analysis, and daily insights.
+> Our SaaS 
 
 #### 🔗 [Cryptipic](https://github.com/sohamsharma21/Cryptipic)
 > Web3-based **NFT authenticity verification** & blockchain image security system.  
@@ -47,7 +52,8 @@
 > Emotion Recognition + Blockchain Privacy for mental health in workplaces — detects stress via AI + biometric data.  
 
 #### 🧠 [Iblis21](#)
-> Study hub for **BCA students** – all semester notes, cheat sheets & tech blogs in one place.  
+> Study hub for **BCA students** – all semester notes, cheat sheets & tech blogs in one place.
+> Our SaaS 
 
 #### 🎨 [WidgetKit Clone](#)
 > Customization platform for widgets, icons, and wallpapers.  
