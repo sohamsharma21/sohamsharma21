@@ -116,6 +116,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamsharma21&layout=compact&theme=tokyonight&hide_border=true" />
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sohamsharma21" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sohamsharma21?trk=profile-badge">Soham Sharma</a></div>
+              
 </p>
 
 ---
