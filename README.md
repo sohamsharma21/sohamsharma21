@@ -1,149 +1,275 @@
-<!-- 🌌 Ultimate Cyber-AI Developer Profile for Soham Sharma -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Hey+I'm+Soham+Sharma+%F0%9F%91%8B;aka+Boss+%F0%9F%92%AA;Full+Stack+%26+Web3+Developer+%F0%9F%94%A5;AI-Powered+Startup+Builder+%F0%9F%9A%80;Let's+Build+the+Future+Together!+%F0%9F%92%AF" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=Hey+I'm+Soham+Sharma+👋;aka+Boss+💪;Full+Stack+%2B+Web3+Developer+🔥;AI+Startup+Builder+🚀;Building+Impactful+Tech+for+Bharat+🇮🇳" />
 </h1>
 
 <p align="center">
-  🎓 BCA Student @ Bareilly College | 💻 Web2 + Web3 Developer | 🤖 AI Innovator | 🚀 Startup Builder | 💡 Member of GDG | 🏆 Participant in 15+ Hackathons  
-  
+  🎓 BCA Student @ Bareilly College (MJPRU) <br/>
+  💻 Full Stack Developer | 🔗 Web3 Engineer | 🤖 AI Innovator <br/>
+  🚀 Founder | 🌍 Problem Solver | 🧠 System Thinker
 </p>
 
 ---
 
-<h2 align="center">🌈 About Me</h2>
+## 🧠 About Me
 
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=sohamsharma21&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Widget" />
-</p>
+I am a **builder-first developer and startup founder** passionate about solving real-world problems using  
+**AI, Blockchain, and Scalable Systems**.
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web3+%26+Blockchain+Innovator;Founder+of+DevXskill;AI+Enthusiast+%7C+Startup+Builder" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-#### 🧩 [NovaAddin](https://github.com/sohamsharma21/NovaAddin)
-> A **futuristic professional + mentorship platform** for students, universities & recruiters.  
-> 🤖 Dctr Nova (AI Career Assistant) | 📄 Resume Builder | 🧑‍🏫 Paid Mentorship | 💰 Web3 Wallet | 🌐 Built with Next.js + Firebase
-> Our Startup    
-
-#### 🛒 [Sharply](https://github.com/sohamsharma21/Sharply)
-> A **hyperlocal 60-minute delivery startup** for Bharat 🇮🇳.  
-> 🎮 Gamified Rewards (Nova Coins) | 🌱 EV-based Delivery | 🧾 Seller Subscriptions | 🚀 Built for Tier-2/3 Cities
-> Our Startup
-
-#### 💧 [JalSaathi](https://github.com/sohamsharma21/JalSaathi)
-> Bilingual **Rainwater Harvesting Assistant App** for rural sustainability.  
-> ☁️ Offline Support | 🌦️ Forecasts | 🏆 Finalist – Sustainovation 2025 | 📲 Supabase + AI Integration
-> Our SaaS 
-
-#### 🔮 [AstroAshi](https://github.com/sohamsharma21/AstroAshi)
-> An **AI-powered astrology PWA** offering bilingual horoscopes, compatibility analysis, and daily insights.
-> Our SaaS 
-
-#### 🔗 [Cryptipic](https://github.com/sohamsharma21/Cryptipic)
-> Web3-based **NFT authenticity verification** & blockchain image security system.  
-
-#### 💼 [AI Workplace Well-being System](#)
-> Emotion Recognition + Blockchain Privacy for mental health in workplaces — detects stress via AI + biometric data.  
-
-#### 🧠 [Iblis21](#)
-> Study hub for **BCA students** – all semester notes, cheat sheets & tech blogs in one place.
-> Our SaaS 
-
-#### 🎨 [WidgetKit Clone](#)
-> Customization platform for widgets, icons, and wallpapers.  
+- 🚀 Founder of multiple **AI-powered startups & SaaS platforms**
+- 🤖 Developed **AI Workplace Well-being System** (Emotion + Stress Detection + Blockchain Privacy)
+- 🌱 Focused on building for **Bharat (Tier 2/3 cities)**
+- 🧠 Strong in **System Design, Product Thinking & Execution**
+- ⚡ Participated in **15+ Hackathons**
+- 🏆 **Smart India Hackathon 2025 – National Finalist (Top 5)**
 
 ---
 
-### 🏆 Achievements & Highlights
+## 💼 Professional Experience
 
-| 🥇 | Achievement |
-|----|--------------|
-| 🧠 **Smart India Hackathon 2024 & 2025** – Team *NovaMinds* (National Level Participant) |
-| 💧 **Sustainovation 2025 Finalist** – Project *JalSaathi* |
-| 🚀 **Bhartiya Antariksha Hackathon 2025** – Air Quality Visualizer Algorithm |
-| 🎤 **DevFest Lucknow 2025** – Shortlisted Speaker |
-| 💬 **GDG Jamia “Hack of Thrones” 2025** – Round 2 Innovator |
-| 🪐 **XR Creator Con (Meta & ShapesXR)** – Selected Creator |
-| 👨‍💻 **Organizer** – Hackathons & Tech Events @ Bareilly College |
-| 💼 **Founder – DevXskill** (Student-led Tech Community) |
-| 🌍 **Member – GDG & GDSC Bareilly College** |
-| 💡 **15+ Hackathons** – Across AI, Web3, and Sustainability |
-| 🔧 **Hyperledger & Solidity Developer** |
-| 🧠 **System Analysis & Design Student (SAD)** |
-| 🤖 **AI Workplace Assistant** – Featured Innovation |
+### 🚀 Founder & Researcher – NovaAddin
+- Built a **professional networking & mentorship platform**
+- Developed **Dctr Nova (AI Career Assistant)** for real-time career guidance
+- Created **AI Resume Builder + Analysis system**
+- Integrated **paid mentorship marketplace**
+- Validated idea through **national startup competitions**
 
 ---
 
-### 🧠 Skills & Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,typescript,solidity,html,css,tailwind,firebase,supabase,python,tensorflow,git,figma,vercel,astro,postman&perline=8" />
-</p>
-
----
-
-### 💡 Core Expertise
-- ⚙️ Full-Stack Development (Next.js + Node.js)  
-- 🪙 Blockchain | Smart Contracts | Web3.js | Hyperledger  
-- 🤖 AI Integration | GPT | Gemini | TensorFlow  
-- 🌐 Cloud + Firebase Architectures  
-- 🎨 Product Design | UI/UX | System Analysis  
-- 🚀 Startup Leadership | Mentorship | Hackathon Strategy  
+### 🛒 Founder & CEO – Sharply (Hyperlocal Startup)
+- Built a **hyperlocal ecommerce delivery platform**
+- Designed **1-hour / 1–2 day delivery model for Tier 2/3 cities**
+- Developed **gamified reward system (Nova Coins)**
+- Managed **team, operations, and financial planning**
+- Created investor-ready pitch (Version 3.1)
 
 ---
 
-### 🧩 Community & Speaking
-- 🎤 **DevFest Lucknow 2025** – Shortlisted Speaker  
-- 🧩 **Hack of Thrones (GDG Jamia)** – Round 2  
-- 🧠 **Founder – DevXskill** – Growing tech community in college  
-- 🌍 **Active Member – GDG & GDSC**  
-- 💬 **Organizer & Mentor** – Tech events & hackathons  
+### 📈 Growth Partner / Campus Ambassador – Parikshak.ai
+- Led **user acquisition & marketing campaigns**
+- Built **campus growth strategies**
+- Collaborated with **students & faculty for adoption**
 
 ---
 
-### ⚡ GitHub Stats
+## 🚀 Startup & Core Products
+
+### 🧩 NovaAddin  
+🌐 https://www.novaaddin.com  
+> Peer-to-peer mentorship + AI career ecosystem
+
+- 🤖 AI Career Assistant (Dctr Nova)
+- 📄 Resume Builder + Smart Insights
+- 🧑‍🏫 Mentorship Marketplace
+- 🔐 Web3 Wallet Integration
+
+---
+
+### 🛒 Hyperlocal Ecommerce Platform (Sharply)  
+🌐 https://sharply1.vercel.app/  
+> Delivering products from nearby stores within 1–2 days
+
+- ⚡ Fast delivery system
+- 🏪 Supports local businesses
+- 🎮 Gamified ecosystem
+
+---
+
+### 💧 JalSaathi (Sustainability SaaS)  
+> Rainwater harvesting assistant for communities
+
+- 🌦️ Weather-based recommendations
+- 📲 Offline-first (rural support)
+- 🎮 Gamification for engagement
+- 🏆 Sustainovation Finalist
+
+---
+
+### 🧠 AI Workplace Well-being System  
+> Emotion AI + Biometric + Blockchain Privacy
+
+- 😵 Stress detection via AI
+- 🤖 AI-powered therapy chatbot
+- 📊 Organizational insights dashboard
+
+---
+
+## 🧪 AI & SaaS Ecosystem
+
+### 🎉 Novaish  
+🌐 https://novaish.vercel.app/  
+> AI-powered personalized birthday wishes generator
+
+- ✨ Emotion-driven AI messages
+- 🎁 Enhances personal connections
+
+---
+
+### 🔗 LinkVerse  
+🌐 https://linkverses.vercel.app/  
+> One link for all your content
+
+- 🌐 Custom bio-link pages
+- 📱 Share across platforms
+
+---
+
+### 🧱 NoaPages  
+🌐 https://novapages.vercel.app/  
+> AI-powered landing page generator
+
+- ⚡ Create high-converting pages
+- 🧠 No coding required
+
+---
+
+### 🩺 Silent Disease Detector  
+🌐 https://silentdiseasedetector.vercel.app/  
+> AI-powered early disease detection system
+
+- 🧠 Detects Diabetes, Cardiac, Liver & Mental risks
+- ⚡ Instant insights
+
+---
+
+## 🌍 Innovation & Research Projects
+
+### 🚛 Eco Logicx (Google Hackathon Project)  
+🌐 https://v0-eco-logix.vercel.app/  
+> AI-based vehicle overload detection
+
+- 🚨 Prevents road accidents
+- 🛣️ Protects infrastructure
+
+---
+
+### 🌸 BloomWatch  
+🌐 https://bloomwatch-app.vercel.app/  
+> NASA-based vegetation monitoring system
+
+- 🌍 Tracks flowering cycles
+- 🛰️ Uses Earth observation data
+
+---
+
+### 🌾 AgroSky AI  
+> Drone-powered crop intelligence system
+
+- 🌱 Crop health analysis
+- 📊 Yield prediction
+
+---
+
+### 💧 HydroNail (SIH Project)  
+> Industrial water treatment optimization
+
+- 🤖 AI-based monitoring system
+- 📊 Real-time analytics + digital twin
+
+---
+
+### 🔮 AstroAshi  
+> AI-powered astrology platform
+
+- 🧠 Predictions + compatibility
+- 🌐 Multilingual support
+
+---
+
+### 🔗 Cryptipic  
+> Blockchain-based image authenticity system
+
+- 🔐 Tamper-proof verification
+- 🖼️ NFT-based ownership
+
+---
+
+### 🧠 Iblis21  
+> Study hub for BCA students
+
+- 📚 Notes + resources
+- 🧑‍💻 Tech blogs
+
+---
+
+### 🧑‍💻 DevXskill Portal  
+> Community-driven learning platform
+
+- 👨‍💻 Peer-to-peer mentorship
+- 📚 Tech resources
+
+---
+
+## 🏆 Achievements & Recognition
+
+- 🥇 Smart India Hackathon 2025 – **National Finalist (Top 5)**
+- 🥇 Smart India Hackathon 2024 – Participant
+- 🏛️ IIT Roorkee E-Summit – Selected for Live Pitching
+- 🚀 National Space Hackathon (IIT Delhi) – Participant
+- 🧩 Hackathons: Hack of Thrones, Hackground, Hackshastra
+- 🪐 XR Creator Program – Selected
+- 🎤 DevFest – Shortlisted Speaker
+- 👨‍💻 Organizer – College Tech Events
+- 🏫 Class Representative (BCA Department)
+- 💼 Founder – DevXskill Tech Community
+
+---
+
+## ⚙️ Technical Skills
+
+### 💻 Languages & Web
+Python, JavaScript (Web3.js), Solidity, HTML5, CSS3, Tailwind CSS  
+
+### ⚙️ Frameworks
+React.js, Next.js, Node.js  
+
+### 🗄️ Backend & Database
+Firebase, Firestore, REST APIs  
+
+### 🔗 Emerging Tech
+Blockchain (DApps, Smart Contracts), Web3, Agentic AI, Emotion Recognition  
+
+### 🛠️ Tools
+Git, GitHub, Vercel, Figma, MATLAB, KiCad, SolidWorks, ModelSim  
+
+---
+
+## 💡 Core Expertise
+
+- ⚙️ Full Stack Development (Next.js + Node.js)
+- 🔗 Blockchain & Web3 Development
+- 🤖 AI Systems (LLMs, Emotion Detection)
+- ☁️ Scalable Backend Architecture
+- 🎨 UI/UX & Product Design
+- 🚀 Startup Strategy & Execution
+
+---
+
+## 🎓 Education
+
+🎓 **Bachelor of Computer Applications (BCA)**  
+Bareilly College (MJPRU)  
+📅 2023 – 2026  
+📊 CGPA: 7.48  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sohamsharma21&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamsharma21&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamsharma21&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://www.linkedin.com/in/sohamsharma21/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/sohamsharma21"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:sohamsharmapcm@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
 
-### 🧭 Currently Exploring
-- 🤖 AI x Web3 Synergy  
-- ☁️ Cloud Deployment Pipelines (Vercel + Firebase)  
-- 🧩 DApps for Real-World Problem Solving  
-- 🧱 Startup Building & Scaling  
-
----
-
-### 🤝 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sohamsharma21/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sohamsharma21"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:sohamsharmapcm@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:483D8B&height=120&section=footer&animation=twinkling" />
-</p>
-
-<h3 align="center">✨ “Building the Future, One Line of Code at a Time.” ✨</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sohamsharma21&label=Profile%20Views&color=00FFFF&style=flat-square" alt="profile views" />
-</p>
+<h3 align="center">🔥 “I don’t just write code — I build systems that solve real-world problems.”</h3>
