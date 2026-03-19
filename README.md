@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=Hey+I'm+Soham+Sharma+👋;aka+Boss+💪;Full+Stack+%2B+Web3+Developer+🔥;AI+Startup+Builder+🚀;Building+Impactful+Tech+for+Bharat+🇮🇳" />
-</h1>
+<!-- 🌌 Ultimate Cyber-AI Developer Profile for Soham Sharma -->
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Hey+I'm+Soham+Sharma+%F0%9F%91%8B;aka+Boss+%F0%9F%92%AA;Full+Stack+%26+Web3+Developer+%F0%9F%94%A5;AI-Powered+Startup+Builder+%F0%9F%9A%80;Let's+Build+the+Future+Together!+%F0%9F%92%AF" alt="Typing Animation" /> </h1>
 
 <p align="center">
   🎓 BCA Student @ Bareilly College (MJPRU) <br/>
