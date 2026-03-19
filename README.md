@@ -168,14 +168,17 @@ I am a **builder-first developer and startup founder** passionate about solving 
 ---
 
 ### 🔮 AstroAshi  
+🌐 https://astroashi.vercel.app/  
 > AI-powered astrology platform
 
 - 🧠 Predictions + compatibility
 - 🌐 Multilingual support
+- 🔮 For all Religion 
 
 ---
 
 ### 🔗 Cryptipic  
+🌐 https://cryptipic.vercel.app/  
 > Blockchain-based image authenticity system
 
 - 🔐 Tamper-proof verification
@@ -191,10 +194,9 @@ I am a **builder-first developer and startup founder** passionate about solving 
 
 ---
 
-### 🧑‍💻 DevXskill Portal  
+### 🧑‍💻 DevXskill  
 > Community-driven learning platform
 
-- 👨‍💻 Peer-to-peer mentorship
 - 📚 Tech resources
 
 ---
@@ -205,12 +207,12 @@ I am a **builder-first developer and startup founder** passionate about solving 
 - 🥇 Smart India Hackathon 2024 – Participant
 - 🏛️ IIT Roorkee E-Summit – Selected for Live Pitching
 - 🚀 National Space Hackathon (IIT Delhi) – Participant
-- 🧩 Hackathons: Hack of Thrones, Hackground, Hackshastra
-- 🪐 XR Creator Program – Selected
-- 🎤 DevFest – Shortlisted Speaker
+- 🧩 Hackathons: Hack of Thrones, Hackshastra, HackSprint ,NASA Space apps challenge, GDG hackthons & 15+ national hackathons. 
+- 🪐 XR Creator Program – Selected ( International )
+- 🎤 DevFest – Shortlisted Speaker (GDG)
 - 👨‍💻 Organizer – College Tech Events
 - 🏫 Class Representative (BCA Department)
-- 💼 Founder – DevXskill Tech Community
+- 💼 Founder – DevXskill Tech Community (College tech Community)
 
 ---
 
@@ -226,10 +228,10 @@ React.js, Next.js, Node.js
 Firebase, Firestore, REST APIs  
 
 ### 🔗 Emerging Tech
-Blockchain (DApps, Smart Contracts), Web3, Agentic AI, Emotion Recognition  
+Blockchain (DApps, Smart Contracts), Web3, Agentic AI, Emotion Recognition , Rag System 
 
 ### 🛠️ Tools
-Git, GitHub, Vercel, Figma, MATLAB, KiCad, SolidWorks, ModelSim  
+Git, GitHub, Vercel, Figma, Google Console, Antigravity, Cursor, Remix IDE (web3), Google Stitch, Modern AI Tools
 
 ---
 
@@ -237,7 +239,7 @@ Git, GitHub, Vercel, Figma, MATLAB, KiCad, SolidWorks, ModelSim
 
 - ⚙️ Full Stack Development (Next.js + Node.js)
 - 🔗 Blockchain & Web3 Development
-- 🤖 AI Systems (LLMs, Emotion Detection)
+- 🤖 AI Systems (LLMs, RAG)
 - ☁️ Scalable Backend Architecture
 - 🎨 UI/UX & Product Design
 - 🚀 Startup Strategy & Execution
@@ -249,7 +251,14 @@ Git, GitHub, Vercel, Figma, MATLAB, KiCad, SolidWorks, ModelSim
 🎓 **Bachelor of Computer Applications (BCA)**  
 Bareilly College (MJPRU)  
 📅 2023 – 2026  
-📊 CGPA: 7.48  
+📊 CGPA: 7.48 
+
+🚀 **Startup School – Y Combinator**  
+📅 2025  
+
+- Learned **startup validation, MVP development & scaling strategies**
+- Studied insights from **top YC founders & successful startups**
+- Applied learnings directly in building **NovaAddin**
 
 ---
 
