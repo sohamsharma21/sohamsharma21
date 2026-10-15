@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,6,24&height=260&section=header&text=SOHAM%20SHARMA&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%C2%B7%20Builder%20for%20Bharat&descSize=20&descAlignY=60" alt="header" width="100%"/>
 
 <a href="https://github.com/sohamsharma21">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF9933&center=true&vCenter=true&width=720&height=50&lines=Founder+%26+CEO+%40+NovaAddin;Top+5+India+%E2%80%94+Smart+India+Hackathon+2025;15%2B+hackathons.+15%2B+products.+1000%2B+users.;Building+AI+for+Tier-2+%26+Tier-3+India;Currently+shipping%3A+AstroAshi+v2+%F0%9F%94%AE" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF9933&center=true&vCenter=true&width=720&height=50&lines=Founder+%26+NovaAddin;Top+5+India+%E2%80%94+Smart+India+Hackathon+2025;20%2B+hackathons.+15%2B+products.+1000%2B+users.;Building+AI+for+India;Currently+shipping%3A+AstroAshi+v2+%F0%9F%94%AE" alt="typing"/>
 </a>
 
 <br/>
@@ -27,15 +27,16 @@
 <tr>
 <td width="55%" valign="top">
 
-### 👋 Namaste, main Soham
+### 👋 Hi, I'm Soham
 
-Ek **student founder** jo Bareilly se products banata hai, un logon ke liye jo usually tech ki list mein *last* aate hain: **Tier-2/3 India ke students, kisan, chhote shehar.**
+A **student founder** from Bareilly building products for the people tech usually reaches *last*: **students, farmers and small towns across Tier-2/3 India.**
 
 - 🎓 **MCA** @ Invertis University, Bareilly
-- 🏢 **Founder & CEO** · [NovaAddin](https://novaaddin.com)
+- 🏢 **Founder** · [NovaAddin](https://novaaddin.com)
+- 🏢 **Founder** · [AstroAshi](https://astroashi.vercel.app)
 - ☁️ **Google Student Ambassador** · Cloud & AI
-- 🤝 **Sarvam AI Startup Program** member
-- 🇮🇳 **MyGov Campus Ambassador** (MeitY)
+- 🤝 **Sarvam AI Startup Program** Selected My Startup in it
+- 🎖️ **MyGov Campus Ambassador** (MeitY) 
 - 🧪 **YC Startup School** graduate
 - 🎤 **Google DevFest** speaker shortlist
 
@@ -46,7 +47,7 @@ Ek **student founder** jo Bareilly se products banata hai, un logon ke liye jo u
 
 | | |
 |---|---|
-| 🔮 | **AstroAshi v2**<br/>RAG on Gita · Quran · Bible · Guru Granth Sahib |
+| 🔮 | **AstroAshi v2**<br/>RAG and CMS & Other Feactures |
 | 🆘 | **SOS Safety Device**<br/>One press → live GPS → police + family |
 | 🛰️ | **CanSat · RYIC 2026**<br/>700 g probe, 500 m drone drop |
 | 🦅 | **Idea lab**<br/>Nano recon drone for Indian forces |
@@ -63,7 +64,7 @@ Ek **student founder** jo Bareilly se products banata hai, un logon ke liye jo u
 
 | 🏆 Hackathons | 📦 Products | 🚀 Startups | 👥 Users | 🥇 Best Result |
 |:-:|:-:|:-:|:-:|:-:|
-| **15+** | **15+** | **2+** | **1000+** | **SIH 2025 · Top 5 India** |
+| **20+** | **15+** | **2+** | **1000+** | **SIH 2025 · Top 5 India** |
 
 </div>
 
@@ -77,7 +78,7 @@ Ek **student founder** jo Bareilly se products banata hai, un logon ke liye jo u
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,tailwind,postgres,supabase,firebase,docker,gcp,vercel,git,figma,solidity&perline=9" alt="skills"/>
 
-<sub>**AI stack:** Vertex AI · Gemini · Groq · Sarvam APIs · Hugging Face · RAG · pgvector · Agentic AI &nbsp;|&nbsp; **Speed tools:** Cursor · Lovable · v0</sub>
+<sub>**AI stack:** Vertex AI · Gemini · Groq · Sarvam APIs · Hugging Face · RAG · pgvector · Agentic AI &nbsp;|&nbsp; **Speed tools:** Cursor · Lovable · v0 · Antigravity · Vercel · Google Cloud · Cloude</sub>
 
 </div>
 
@@ -170,11 +171,21 @@ Hyperlocal commerce for Tier-2 cities, with Nova Coins rewards.
 </td>
 <td valign="top">
 
-#### 🔗 LinkVerse · 🎂 Novaish
-Bio-link pages and emotion-driven AI birthday wishes.
-[**LinkVerse ↗**](https://linkverses.vercel.app/) · [**Novaish ↗**](https://novaish.vercel.app/)
+#### 🔗 LinkVerse
+Bio-link pages and emotion-driven.
+[**LinkVerse ↗**](https://linkverses.vercel.app/)
 
 </td>
+<td valign="top">
+
+#### 🔗 🎂 Novaish
+AI birthday wishes.
+[**Novaish ↗**](https://novaish.vercel.app/)
+
+
+</td>
+</tr>
+<tr>
 <td valign="top">
 
 #### 🔐 Cryptipic
@@ -208,47 +219,32 @@ Blockchain image authenticity with NFT ownership.
 
 <div align="center">
 
-## 🏅 TROPHY CASE
+🏆 TROPHY CASE
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohamsharma21&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/></a>
+<sub>Proof of work, not just a list of events.</sub>
 
-<sub>
-SIH 2025 Top 5 · SIH 2024 · NASA Space Apps · Google Vertex AI Hackathon · IIT Roorkee E-Summit (live pitch) · IIT Delhi Space Hackathon · National Space Hackathon 2025 · Bhartiya Antariksha Hackathon · Sustainovation 2025 · Hack Secure 2.0 · Hack18 NIT · RIT IPW ICO Finalist · Polaris Fellowship 2026 · XR Creator Program · Google DevFest
-</sub>
+<br/> <table> <tr> <td align="center" width="33%"> <h1>🥇</h1> <b>Smart India Hackathon 2025</b><br/> <img src="https://img.shields.io/badge/TOP_5-NATIONAL_FINALIST-FF9933?style=flat-square" alt="SIH"/><br/> <sub>Vehicle Overload Detection<br/>Cloud Run · Vertex AI · ~92% accuracy</sub> </td> <td align="center" width="33%"> <h1>🚀</h1> <b>Product Hunt</b><br/> <img src="https://img.shields.io/badge/%2381-WORLDWIDE-DA552F?style=flat-square" alt="PH"/><br/> <sub>AstroAshi, an AI astrology platform<br/>for every faith</sub> </td> <td align="center" width="33%"> <h1>🎓</h1> <b>IIT Roorkee E-Summit 2026</b><br/> <img src="https://img.shields.io/badge/LIVE-PITCHING-6C47FF?style=flat-square" alt="IITR"/><br/> <sub>NovaAddin presented on stage<br/>4.8/5 rating · 1000+ students</sub> </td> </tr> </table> <table> <tr> <td align="center" width="25%"> <h2>🌍</h2> <b>NASA Space Apps</b><br/> <sub>International<br/>BloomWatch</sub> </td> <td align="center" width="25%"> <h2>🤝</h2> <b>Sarvam AI</b><br/> <sub>Startup Program<br/>Apr 2026</sub> </td> <td align="center" width="25%"> <h2>☁️</h2> <b>Google Student Ambassador</b><br/> <sub>Cloud &amp; AI Track<br/>2026</sub> </td> <td align="center" width="25%"> <h2>🥽</h2> <b>XR Creator Program</b><br/> <sub>International<br/>Selected</sub> </td> </tr> <tr> <td align="center"> <h2>🎤</h2> <b>Google DevFest</b><br/> <sub>Speaker<br/>GDG</sub> </td> <td align="center"> <h2>🧪</h2> <b>Y Combinator</b><br/> <sub>Startup School<br/>Completed</sub> </td> <td align="center"> <h2>🇮🇳</h2> <b>MyGov Campus Ambassador</b><br/> <sub>Certified by MeitY<br/>Govt. of India</sub> </td> <td align="center"> <h2>🌱</h2> <b>Sustainovation 2025</b><br/> <sub>Finalist<br/>JalSaathi</sub> </td> </tr> </table> <br/>
+
+🛰️ The Arena  ·  20+ hackathons and counting
+
+<img src="https://img.shields.io/badge/SIH_2024-Participant-1f2937?style=flat-square&labelColor=FF9933" alt="SIH24"/> <img src="https://img.shields.io/badge/Google_Vertex_AI-Hackathon-1f2937?style=flat-square&labelColor=4285F4" alt="Vertex"/> <img src="https://img.shields.io/badge/IIT_Delhi-Space_Hackathon-1f2937?style=flat-square&labelColor=0B3D91" alt="IITD"/> <img src="https://img.shields.io/badge/National_Space-Hackathon_2025-1f2937?style=flat-square&labelColor=0B3D91" alt="NSH"/> <img src="https://img.shields.io/badge/Bhartiya_Antariksha-Hackathon-1f2937?style=flat-square&labelColor=0B3D91" alt="BAH"/> <br/> <img src="https://img.shields.io/badge/Hack18-NIT-1f2937?style=flat-square&labelColor=6C47FF" alt="Hack18"/> <img src="https://img.shields.io/badge/Hack_Secure-2.0-1f2937?style=flat-square&labelColor=DC2626" alt="HS"/> <img src="https://img.shields.io/badge/RIT_IPW_ICO-Finalist-1f2937?style=flat-square&labelColor=138808" alt="RIT"/> <img src="https://img.shields.io/badge/Polaris-Fellowship_2026-1f2937?style=flat-square&labelColor=6C47FF" alt="Polaris"/>
 
 <br/><br/>
 
-## 📊 CODE ACTIVITY
 
-<img src="https://github-readme-stats.vercel.app/api?username=sohamsharma21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamsharma21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="langs"/>
-
-<img src="https://streak-stats.demolab.com/?user=sohamsharma21&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamsharma21&theme=tokyo-night&hide_border=true&area=true&custom_title=Soham%27s%20Contribution%20Graph" width="95%" alt="activity"/>
-
-<br/>
-
-<!-- Snake: needs the workflow in .github/workflows/snake.yml (provided separately) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sohamsharma21/sohamsharma21/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sohamsharma21/sohamsharma21/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sohamsharma21/sohamsharma21/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
+📊 CODE ACTIVITY
+<img src="https://github-readme-stats.vercel.app/api?username=sohamsharma21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170" alt="stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamsharma21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="langs"/> <img src="https://streak-stats.demolab.com/?user=sohamsharma21&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/> <!-- Snake: needs the workflow in .github/workflows/snake.yml (provided separately) --> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sohamsharma21/sohamsharma21/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sohamsharma21/sohamsharma21/output/github-contribution-grid-snake.svg" /> <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sohamsharma21/sohamsharma21/output/github-contribution-grid-snake.svg" /> </picture> </div> <br/> <div align="center">
 
 ## 📡 LET'S BUILD
 
 **Open for:** collabs · hackathon teams · hardware partners (SOS device & CanSat) · products that matter
 
 [![Mail me](https://img.shields.io/badge/📧_sohamsharmapcm@gmail.com-111?style=for-the-badge)](mailto:sohamsharmapcm@gmail.com)
+<br/><br/>
+[![Mail me](https://img.shields.io/badge/📧_founder@novaaddin.com-111?style=for-the-badge)](mailto:founder@novaaddin.com)
 
-*Hinglish mein bhi message karo, chalega.* 🇮🇳
+
+*Say hi in English, Hindi or Hinglish. All work.* 🇮🇳
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=120&section=footer" width="100%" alt="footer"/>
 
