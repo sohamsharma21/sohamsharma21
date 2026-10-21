@@ -33,9 +33,10 @@ A **student founder** from Bareilly building products for the people tech usuall
 
 - 🎓 **MCA** @ Invertis University, Bareilly
 - 🏢 **Founder** · [NovaAddin](https://novaaddin.com)
-- 🏢 **Founder** · [AstroAshi](https://astroashi.vercel.app)
+- 🏢 **CoFounder** · [AstroAshi](https://astroashi.vercel.app)
 - ☁️ **Google Student Ambassador** · Cloud & AI
 - 🤝 **Sarvam AI Startup Program** Selected My Startup in it
+- 🎉 **Mentor for Eureka Junior 2026** Organized By IIT Bombay
 - 🎖️ **MyGov Campus Ambassador** (MeitY) 
 - 🧪 **YC Startup School** graduate
 - 🎤 **Google DevFest** speaker shortlist
