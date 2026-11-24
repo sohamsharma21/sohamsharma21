@@ -10,9 +10,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,6,24&height=260&section=header&text=SOHAM%20SHARMA&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%C2%B7%20Builder%20for%20Bharat&descSize=20&descAlignY=60" alt="header" width="100%"/>
 
-<a href="https://github.com/sohamsharma21">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF9933&center=true&vCenter=true&width=720&height=50&lines=Founder+%26+CEO+%40+NovaAddin;Top+5+India+%E2%80%94+Smart+India+Hackathon+2025;15%2B+hackathons.+15%2B+products.+1000%2B+users.;Building+AI+for+Tier-2+%26+Tier-3+India;Currently+shipping%3A+AstroAshi+v2+%F0%9F%94%AE" alt="typing"/>
-</a>
 
 <br/>
 
